@@ -20,4 +20,5 @@
 #ifdef OLED_ENABLE
 #    define OLED_DISPLAY_128X32
 #    define SPLIT_OLED_ENABLE
+#    define OLED_FONT_H "keyboards/splitkb/aurora/lily58/glcdfont.c"
 #endif
